@@ -12,9 +12,9 @@
 
 ---
 
-### 🎵 Spotify
-<a href="https://open.spotify.com">
-  <img src="https://novatorem-spotify-api.vercel.app/api/now-playing?user=anlamadim&theme=dark" alt="Spotify" />
+### 🎵 Listening to
+<a href="https://open.spotify.com/track/6U7708S08YvS3HiVOfOisj">
+  <img src="https://spotify-readme-tthn0.vercel.app/api/shot?target=https://open.spotify.com/track/6U7708S08YvS3HiVOfOisj&theme=dark" alt="Kanye West - Hell of a Life" width="400" />
 </a>
 
 ---
